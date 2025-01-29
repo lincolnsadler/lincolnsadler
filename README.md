@@ -1,5 +1,5 @@
 ## Olá! eu sou o Lincoln
-- Studant...
+- Student...
 - PT/BR - ENG
 - Languages:
 <div style="display: inline_block"><br>
