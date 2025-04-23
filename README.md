@@ -11,10 +11,13 @@
 <!--   <img align="center" alt="PHP" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> -->
 </div>
 <hr/>
-<div> 
-  <a href="https://www.linkedin.com/in/lincoln-sadler-499151213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lincolnjcsadler@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+<a href="https://www.linkedin.com/in/lincoln-sadler-499151213/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:lincolnjcsadler@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
 
 
 ![11kuu's Stats](https://github-readme-stats.vercel.app/api?username=11kuu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
