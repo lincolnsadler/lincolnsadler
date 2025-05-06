@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Lincoln
 
-- 🎓 Estudante de Desenvolvimento Front-End
+- 🎓 Estudante de Desenvolvimento Front-End e um pouco de Back-End
 - 🌎 PT-BR / EN-US
 - 💻 Linguagens que estou aprendendo:
 
