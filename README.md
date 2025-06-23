@@ -31,4 +31,4 @@ Sou um estudante de **Desenvolvimento Front-End**, com interesse também em **Ba
 
 ---
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/lincolnsadler/lincolnsadler/blob/output/github-snake-dark.svg)
