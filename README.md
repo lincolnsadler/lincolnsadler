@@ -2,7 +2,6 @@
 
 Sou um estudante de **Desenvolvimento Front-End**, com interesse também em **Back-End**. Estou sempre aprendendo e buscando evoluir como desenvolvedor.
 
-- 🌱 Atualmente estudando: HTML, CSS, JavaScript, React e Python
 - 🌍 Idiomas: Português (nativo) / Inglês (intermediário)
 - 🚀 Foco em Front-End com base sólida em lógica de programação
 
