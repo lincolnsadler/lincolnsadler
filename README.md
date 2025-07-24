@@ -31,7 +31,7 @@ I'm a **Front-End Development** student, also interested in **Back-End**. I'm al
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:lincolnjcsadler@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F48024?style=for-the-badge\&logo=stackoverflow\&logoColor=white)](https://stackoverflow.com/users/30866737)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/781502159686074379)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/lincolnsadler/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/2fW1uy1CVY/)
 
 
 ---
