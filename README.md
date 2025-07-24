@@ -33,7 +33,6 @@ I'm a **Front-End Development** student, also interested in **Back-End**. I'm al
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/781502159686074379)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/lincolnsadler/)
 
-> ⚠️ Replace `seu_id_aqui` and `seu_usuario_aqui` with your actual Discord and LeetCode usernames.
 
 ---
 
