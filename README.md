@@ -1,13 +1,13 @@
-## 👋 Olá! Eu sou o Lincoln
+## 👋 Hello! I'm Lincoln
 
-Sou um estudante de **Desenvolvimento Front-End**, com interesse também em **Back-End**. Estou sempre aprendendo e buscando evoluir como desenvolvedor.
+I'm a **Front-End Development** student, also interested in **Back-End**. I'm always learning and looking to grow as a developer.
 
-- 🌍 Idiomas: Português (nativo) / Inglês (intermediário)
-- 🚀 Foco em Front-End com base sólida em lógica de programação
+* 🌍 Languages: Portuguese (native) / English (intermediate)
+* 🚀 Focused on Front-End with a solid foundation in programming logic
 
 ---
 
-### 💻 Tecnologias que estou aprendendo
+### 💻 Technologies I'm Learning
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -23,14 +23,17 @@ Sou um estudante de **Desenvolvimento Front-End**, com interesse também em **Ba
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL / MySQL" />
 </div>
 
-
 ---
 
-### 📬 Entre em contato
+### 🌐 Social
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lincoln-sadler-499151213/)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lincolnjcsadler@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/30866737)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lincoln-sadler-499151213/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:lincolnjcsadler@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F48024?style=for-the-badge\&logo=stackoverflow\&logoColor=white)](https://stackoverflow.com/users/30866737)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/781502159686074379)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/lincolnsadler/)
+
+> ⚠️ Replace `seu_id_aqui` and `seu_usuario_aqui` with your actual Discord and LeetCode usernames.
 
 ---
 
