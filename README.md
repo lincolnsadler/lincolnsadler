@@ -3,7 +3,7 @@
 I'm a **Front-End Development** student, also interested in **Back-End**. I'm always learning and looking to grow as a developer.
 
 * 🌍 Languages: Portuguese (native) / English (intermediate)
-* 🚀 Focused on Front-End with a solid foundation in programming logic
+* 🚀 Focused on Front-End with a solid foundation in programming logic and Back-end
 
 ---
 ### 💻 Technologies I'm Learning
