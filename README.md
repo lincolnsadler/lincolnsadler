@@ -7,7 +7,6 @@ I love creating clean, responsive, and user-friendly applications, and I'm alway
 
 - 🎯 **Current Focus:** Front-End development & programming logic
 - 🌍 **Languages:** Portuguese (native) / English (intermediate)
-- 📚 **Currently Learning:** React, Node.js, TypeScript, and Tailwind CSS
 
 ---
 
